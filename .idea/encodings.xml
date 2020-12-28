@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/src/files/bs_de.txt" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/files/testforEncoding.txt" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/src/files/untranslatedTexts.txt" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/src/main/java/Definition.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/main/java/Main.java" charset="windows-1252" />
+    <file url="PROJECT" charset="windows-1252" />
+  </component>
+</project>

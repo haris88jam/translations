@@ -12,6 +12,6 @@ public class Helper {
     }
 
     public static BufferedWriter openWriter(Path filename) throws IOException{
-        return Files.newBufferedWriter(filename);
+        return Files.newBufferedWriter(filename, StandardCharsets.ISO_8859_1);
     }
 }
