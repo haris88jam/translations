@@ -2,18 +2,13 @@ import java.io.BufferedReader;
 import java.io.BufferedWriter;
 import java.io.IOException;
 import java.io.InputStreamReader;
-import java.nio.file.Path;
 import java.util.*;
 import java.util.stream.Collectors;
 
 public class Main {
     public static void main(String[] args) throws IOException {
         List<String> untranslatedTexts = new ArrayList<>();
-        try (BufferedWriter writer = Helper.openWriter(Path.of("./src/files/testforEncoding.txt"))){
-            writer.write("öäüÖÄÜ");
-        }catch (IOException e){
-            e.getMessage();
-        }
+
         try (BufferedReader reader = Helper.openReader(WorkFile.UNTRANSLATEDTEXTS);){
             String line = reader.readLine();
 
