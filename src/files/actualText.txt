@@ -1,0 +1,764 @@
+Not Aus Kreis offen
+Kompensation Stufe (K2) Ein
+Kompensation Stufe (K3) Ein
+Steuerspannung  24V DC
+Lüfter Störung Leistungsschränke 
+Lüfter Störung
+Anlage Hand
+Anlage Hand
+Anlage Automatik
+Anlage Automatik
+Startspannungsfreigabe
+Filterschleuse  (2nd cleaning)
+Filterschleuse  (2nd cleaning)
+Filterschleuse  (2nd cleaning)
+Filterschleuse  (2nd cleaning)
+Filtersteuerung (2nd cleaning)
+Filtersteuerung (2nd cleaning)
+Filtersteuerung (2nd cleaning)
+Filtersteuerung (2nd cleaning)
+Ventilator (2nd cleaning)
+Ventilator (2nd cleaning)
+Ventilator (2nd cleaning)
+Ventilator (2nd cleaning)
+Filterschleuse (Pn. 1)
+Filterschleuse (Pn. 1)
+Filterschleuse (Pn. 1)
+Filterschleuse (Pn. 1)
+Filtersteuerung  (Pn. 1)
+Filtersteuerung  (Pn. 1)
+Filtersteuerung  (Pn. 1)
+Filtersteuerung  (Pn. 1)
+Ventilator (Pn. 1)
+Ventilator (Pn. 1)
+Ventilator (Pn. 1)
+Ventilator (Pn. 1)
+Abscheiderschleuse
+Abscheiderschleuse
+Abscheiderschleuse
+Abscheiderschleuse
+Abscheiderschleuse
+Abscheiderschleuse
+Abscheiderschleuse
+Abscheiderschleuse
+Abscheiderschleuse
+Abscheiderschleuse
+Abscheiderschleuse
+Abscheiderschleuse
+Abscheiderschleuse
+Abscheiderschleuse
+Abscheiderschleuse
+Abscheiderschleuse
+Abscheiderschleuse
+Abscheiderschleuse
+Abscheiderschleuse
+Abscheiderschleuse
+Abscheiderschleuse
+Abscheiderschleuse
+Abscheiderschleuse
+Abscheiderschleuse
+Abscheiderschleuse
+Abscheiderschleuse
+Abscheiderschleuse
+Abscheiderschleuse
+HD Ventilator (Pn. 1)
+HD Ventilator (Pn. 1) (Stern/Dreieck)
+HD Ventilator (Pn. 1) (Stern/Dreieck)
+Prallmaschine MJZE
+Prallmaschine MJZE
+Prallmaschine MJZE
+Prallmaschine MJZE
+Prallmaschine MJZE
+Prallmaschine MJZE
+Prallmaschine MJZE
+Prallmaschine MJZE
+Prallmaschine MJZE
+Prallmaschine MJZE
+Prallmaschine MJZE
+Prallmaschine MJZE
+Prallmaschine MJZE
+Prallmaschine MJZE
+Prallmaschine MJZE
+Prallmaschine MJZE
+Prallmaschine MJZE
+Prallmaschine MJZE
+Prallmaschine MJZE
+Prallmaschine MJZE
+Prallmaschine MJZE
+Prallmaschine MJZE
+Prallmaschine MJZE
+Prallmaschine MJZE
+Prallmaschine MJZE
+Prallmaschine MJZE
+Prallmaschine MJZE
+Prallmaschine MJZE
+Auflöser MDL P C1B
+Auflöser MDL P C1B
+Auflöser MDL P C1B
+Auflöser MDL P C1B
+Auflöser MDL P C4
+Auflöser MDL P C4
+Auflöser MDL P C4
+Auflöser MDL P C4
+Auflöser MDL P C7
+Auflöser MDL P C7
+Auflöser MDL P C7
+Auflöser MDL P C7
+Auflöser MDL P C2B
+Auflöser MDL P C2B
+Auflöser MDL P C2B
+Auflöser MDL P C2B
+Auflöser MDL P C8
+Auflöser MDL P C8
+Auflöser MDL P C8
+Auflöser MDL P C8
+Auflöser MDL P C9
+Auflöser MDL P C9
+Auflöser MDL P C9
+Auflöser MDL P C9
+Mehlschleuder
+Mehlschleuder
+Mehlschleuder
+Mehlschleuder
+Mehlschleuder
+Mehlschleuder
+Mehlschleuder
+Mehlschleuder
+Kleieschleuder
+Kleieschleuder
+Kleieschleuder
+Kleieschleuder
+Kleieschleuder
+Kleieschleuder
+Kleieschleuder
+Kleieschleuder
+Kleieschleuder
+Kleieschleuder
+Kleieschleuder
+Kleieschleuder
+Kleieschleuder
+Kleieschleuder
+Kleieschleuder
+Kleieschleuder
+Thermostat Wasserkühlung  ??
+Walzenstuhl Pass. C12
+Walzenstuhl Pass. C12
+Walzenstuhl Pass. C12
+Walzenstuhl Pass. C12
+Walzenstuhl Pass. C11
+Walzenstuhl Pass. C11
+Walzenstuhl Pass. C11
+Walzenstuhl Pass. C11
+
+Walzenstuhl Pass. B5f
+Walzenstuhl Pass. B5f
+Walzenstuhl Pass. B5f
+Walzenstuhl Pass. B5f
+Walzenstuhl Pass. B4f
+Walzenstuhl Pass. B4f
+Walzenstuhl Pass. B4f
+Walzenstuhl Pass. B4f
+
+Walzenstuhl B4gr
+Walzenstuhl B4gr
+Walzenstuhl B4gr
+Walzenstuhl B4gr
+Walzenstuhl B4gr
+Walzenstuhl B4gr
+Walzenstuhl B4gr
+Walzenstuhl B4gr
+
+Walzenstuhl C10
+Walzenstuhl C10
+Walzenstuhl C10
+Walzenstuhl C10
+Walzenstuhl C9
+Walzenstuhl C9
+Walzenstuhl C9
+Walzenstuhl C9
+
+Walzenstuhl C8
+Walzenstuhl C8
+Walzenstuhl C8
+Walzenstuhl C8
+Walzenstuhl C2B
+Walzenstuhl C2B
+Walzenstuhl C2B
+Walzenstuhl C2B
+
+Walzenstuhl C7
+Walzenstuhl C7
+Walzenstuhl C7
+Walzenstuhl C7
+Walzenstuhl C6
+Walzenstuhl C6
+Walzenstuhl C6
+Walzenstuhl C6
+
+Walzenstuhl C2A
+Walzenstuhl C2A
+Walzenstuhl C2A
+Walzenstuhl C2A
+Walzenstuhl C2A
+Walzenstuhl C2A
+Walzenstuhl C2A
+Walzenstuhl C2A
+
+Walzenstuhl C4
+Walzenstuhl C4
+Walzenstuhl C4
+Walzenstuhl C4
+Walzenstuhl C4
+Walzenstuhl C4
+Walzenstuhl C4
+Walzenstuhl C4
+
+Walzenstuhl C5
+Walzenstuhl C5
+Walzenstuhl C5
+Walzenstuhl C5
+Walzenstuhl C5
+Walzenstuhl C5
+Walzenstuhl C5
+Walzenstuhl C5
+
+Walzenstuhl C1A
+Walzenstuhl C1A
+Walzenstuhl C1A
+Walzenstuhl C1A
+Walzenstuhl C1A
+Walzenstuhl C1A
+Walzenstuhl C1A
+Walzenstuhl C1A
+
+Walzenstuhl B3f
+Walzenstuhl B3f
+Walzenstuhl B3f
+Walzenstuhl B3f
+Walzenstuhl C1B
+Walzenstuhl C1B
+Walzenstuhl C1B
+Walzenstuhl C1B
+
+Walzenstuhl B3gr
+Walzenstuhl B3gr
+Walzenstuhl B3gr
+Walzenstuhl B3gr
+Walzenstuhl B3gr
+Walzenstuhl B3gr
+Walzenstuhl B3gr
+Walzenstuhl B3gr
+
+Walzenstuhl C3
+Walzenstuhl C3
+Walzenstuhl C3
+Walzenstuhl C3
+Walzenstuhl C3
+Walzenstuhl C3
+Walzenstuhl C3
+Walzenstuhl C3
+
+Walzenstuhl B2
+Walzenstuhl B2
+Walzenstuhl B2
+Walzenstuhl B2
+
+Walzenstuhl B2
+Walzenstuhl B2
+Walzenstuhl B2
+Walzenstuhl B2
+
+Walzenstuhl B1
+Walzenstuhl B1
+Walzenstuhl B1
+Walzenstuhl B1
+
+Walzenstuhl B1
+Walzenstuhl B1
+Walzenstuhl B1
+Walzenstuhl B1
+
+
+Putzmaschine
+Putzmaschine
+Putzmaschine
+Putzmaschine
+Putzmaschine
+Putzmaschine
+Putzmaschine
+Putzmaschine
+Putzmaschine
+Putzmaschine
+Putzmaschine
+Putzmaschine
+Putzmaschine
+Putzmaschine
+Putzmaschine
+Putzmaschine
+Putzmaschine
+Putzmaschine
+Putzmaschine
+Putzmaschine
+
+
+
+Plansichter
+Plansichter
+Plansichter
+Plansichter
+Plansichter
+Plansichter
+Plansichter
+Plansichter
+Plansichter
+Plansichter
+Plansichter
+Plansichter
+Plansichter
+Plansichter
+Plansichter
+Plansichter
+Plansichter
+Plansichter
+Plansichter
+Plansichter
+Plansichter
+Plansichter
+Plansichter
+Plansichter
+
+Arbeitsdruck Walzenstuhl
+Arbeitsdruck Walzenstuhl
+
+Luft Speisung B2 - C12
+Luft Speisung B2 - C12
+
+Luft Speisung B2 - C12(Feedback , it is not Limit switch))
+Luft Speisung B2 - C12 (Overload)
+Luft Speisung B1
+Luft Speisung B1
+
+Luft Speisung B1 (Feedback, it is not Limit switch)
+Luft Speisung B1 (Overload)
+Vollmelder Filter Flour Feeder Asp.
+Vollmelder Filter Flour Feeder Asp.
+
+
+
+
+Dosierrinne Filter Flour Feeder Asp. 
+Dosierrinne Filter Flour Feeder Asp. 
+Dosierrinne Filter Flour Feeder Asp. 
+Dosierrinne Filter Flour Feeder Asp. 
+Vollmelder Filter Flour Feeder Pn.1
+Vollmelder Filter Flour Feeder Pn.1
+Dosierrinne Filter Flour Feeder Pn.1
+Dosierrinne Filter Flour Feeder Pn.1
+Dosierrinne Filter Flour Feeder Pn.1
+Dosierrinne Filter Flour Feeder Pn.1
+Vollmelder Filter Flour Feeder Pn.2
+Vollmelder Filter Flour Feeder Pn.2
+Dosierrinne Filter Flour Feeder Pn.2
+Dosierrinne Filter Flour Feeder Pn.2
+Dosierrinne Filter Flour Feeder Pn.2
+Dosierrinne Filter Flour Feeder Pn.2
+Dosierrinne Choke Feeder
+Dosierrinne Choke Feeder
+Dosierrinne Choke Feeder
+Dosierrinne Choke Feeder
+
+Dosierrinne (Type 500)
+Dosierrinne (Type 500)
+Dosierrinne (Type 500)
+Dosierrinne (Type 500)
+
+
+
+
+
+
+
+
+
+Spülluft Mehlsilo
+Spülluft Mehlsilo
+Druckluft Mehlsilo
+Druckluft Mehlsilo
+Meldungen vom Mehlsilo
+
+Vorwarnen im Mehlsilo (Interface to MS, start with Mill start)
+
+Start Aspiration Mehlsilo (Interface to MS, start with Mill start)
+Meldungen vom Mehlsilo
+Einschaltbereit
+
+Rückmeldung vom Mehlsilo (Feedback for aspiration from MS)
+ 
+Rückmeldung vom Mehlsilo (Feedback for aspiration from MS)
+ 
+Rückmeldung vom Mehlsilo (Feedback for aspiration from MS)
+ 
+
+
+Vorwahl Zelle 530
+
+Vorwahl Zelle 535
+
+Vorwahl Zelle 529
+
+Vorwahl Zelle 541
+
+Vorwahl Zelle 547
+
+Vorwahl Zelle 553
+
+Vorwahl Zelle 559
+
+
+6-fach Weiche
+
+
+Förderung in Zelle 530
+
+Förderung in Zelle 535
+
+Förderung in Zelle 529
+
+Förderung in Zelle 541
+
+Förderung in Zelle 547
+
+Förderung in Zelle 553 - 559
+
+2-Fach Weiche
+Förderung in Zelle 553
+
+Förderung in Zelle 558
+
+Förderung in Zelle 553
+
+Förderung in Zelle 558
+
+Meldungen vom Mehlsilo
+
+Asp.Klappe Zelle 30  " Auf " (El.Interface from MS)
+
+Asp.Klappe Zelle 35  " Auf " (El.Interface from MS)
+
+Asp.Klappe Zelle 29  " Auf " (El.Interface from MS)
+
+Asp.Klappe Zelle 41  " Auf " (El.Interface from MS)
+
+Asp.Klappe Zelle 47  " Auf " (El.Interface from MS)
+
+Asp.Klappe Zelle 53  " Auf " (El.Interface from MS)
+
+Asp.Klappe Zelle 59  " Auf " (El.Interface from MS)
+
+Meldungen vom Mehlsilo
+
+Vollmelder Zelle 30 (El.Interface from MS)
+
+Vollmelder Zelle 35 (El.Interface from MS)
+ 
+Vollmelder Zelle 29 (El.Interface from MS)
+ 
+Vollmelder Zelle 41 (El.Interface from MS)
+
+Vollmelder Zelle 47 (El.Interface from MS)
+ 
+Vollmelder Zelle 53 (El.Interface from MS)
+ 
+Vollmelder Zelle 59 (El.Interface from MS)
+
+
+Gebläse (Type 500)
+Gebläse (Type 500)
+Gebläse (Type 500)
+Gebläse (Type 500)
+
+Druckluft Grenzwert 1 Min (Type 500)
+Druckluft Grenzwert 1 Min (Type 500)
+Druckluft Grenzwert 2 Max (Type 500)
+Druckluft Grenzwert 2 Max (Type 500)
+
+Schleuse (Type 500)
+Schleuse (Type 500)
+Schleuse (Type 500)
+Schleuse (Type 500)
+Vollmelder Vorbehälter Waage (Type 500)
+Vollmelder Vorbehälter Waage (Type 500)
+Dosierschnecke (Type 500)
+Dosierschnecke (Type 500)
+Dosierschnecke (Type 500)
+Dosierschnecke (Type 500)
+
+
+Waage (Type 500)
+Waage (Type 500)
+
+Waage (Type 500)
+
+Prallmaschine (Type 500)
+Prallmaschine (Type 500)
+Prallmaschine (Type 500)
+Prallmaschine (Type 500)
+
+
+
+
+
+
+Nachsichter
+Nachsichter
+Nachsichter
+Nachsichter
+Filterschleuse Pn.2
+Filterschleuse Pn.2
+Filterschleuse Pn.2
+Filterschleuse Pn.2
+Filtersteuerung Abklopfhammer Pn.2
+Filtersteuerung Abklopfhammer Pn.2
+Filtersteuerung Abklopfhammer Pn.2
+Filtersteuerung Abklopfhammer Pn.2
+Ventilator Pn.2
+Ventilator Pn.2
+Ventilator Pn.2
+Ventilator Pn.2
+
+HD Ventilator Pn.2
+HD Ventilator Pn.2
+HD Ventilator Pn.2
+HD Ventilator Pn.2
+
+
+Abscheiderschleuse (Type 450)
+Abscheiderschleuse (Type 450)
+Abscheiderschleuse (Type 450)
+Abscheiderschleuse (Type 450)
+Gebläse (Type 500)
+Gebläse (Type 500)
+Gebläse (Type 500)
+Gebläse (Type 500)
+Druckluft Grenzwert 1 Min (Type 500)
+Druckluft Grenzwert 1 Min (Type 500)
+Druckluft Grenzwert 2 Max (Type 500)
+Druckluft Grenzwert 2 Max (Type 500)
+Schleuse (Type 500)
+Schleuse (Type 500)
+Schleuse (Type 500)
+Schleuse (Type 500)
+Sammelschnecke (Type 500)
+Sammelschnecke (Type 500)
+Sammelschnecke (Type 500)
+Sammelschnecke (Type 500)
+
+
+
+
+
+Meldungen zum Mehlsilo
+
+Vorwahl Zelle 58 (Not used for controlling the 2 way flaps)
+
+Vorwahl Zelle 54 (Not used for controlling the 2 way flaps)
+
+Vorwahl Zelle 60 (Not used for controlling the 2 way flaps)
+
+
+
+
+
+
+2-Fach Weiche
+2-Fach Weiche to Bin 558
+
+2-Fach Weiche to flap A-5217
+
+2-Fach Weiche to Bin 558
+
+2-Fach Weiche to flap A-5217
+2-Fach Weiche
+2-Fach Weiche to Bin 554
+
+2-Fach Weiche to Bin 560
+
+2-Fach Weiche to Bin 554
+
+2-Fach Weiche to Bin 560
+
+Meldungen vom Mehlsilo
+
+Asp.Klappe Zelle 558  " Auf " (El.Interface from MS)
+
+Asp.Klappe Zelle 554  " Auf " (El.Interface from MS)
+
+Asp.Klappe Zelle 560  " Auf " (El.Interface from MS)
+
+Meldungen vom Mehlsilo
+
+Vollmelder Zelle 58 (El.Interface from MS)
+
+Vollmelder Zelle 54 (El.Interface from MS)Vollmelder Zelle 54 (El.Interface from MS)Vollmelder Zelle 54 (El.Interface from MS)Vollmelder Zelle 54 (El.Interface from MS)Vollmelder Zelle 54 (El.Interface from MS)Vollmelder Zelle 54 (El.Interface from MS)Vollmelder Zelle 54 (El.Interface from MS)Vollmelder Zelle 54 (El.Interface from MS)Vollmelder Zelle 54 (El.Interface from MS)Vollmelder Zelle 54 (El.Interface from MS)Vollmelder Zelle 54 (El.Interface from MS)
+ 
+Vollmelder Zelle 60 (El.Interface from MS)
+
+
+
+
+Gebläse (Dunkelmehl)
+Gebläse (Dunkelmehl)
+Gebläse (Dunkelmehl)
+Gebläse (Dunkelmehl)
+
+Druckluft Grenzwert 1 Min (Dunkelmehl)
+Druckluft Grenzwert 1 Min (Dunkelmehl)
+Druckluft Grenzwert 2 Max (Dunkelmehl)
+Druckluft Grenzwert 2 Max (Dunkelmehl)
+
+Schleuse (Dunkelmehl)
+Schleuse (Dunkelmehl)
+Schleuse (Dunkelmehl)
+Schleuse (Dunkelmehl)
+Dosierschnecke (Dunkelmehl)
+Dosierschnecke (Dunkelmehl)
+Dosierschnecke (Dunkelmehl)
+Dosierschnecke (Dunkelmehl)
+Prallmaschine (Dunkelmehl)
+Prallmaschine (Dunkelmehl)
+Prallmaschine (Dunkelmehl)
+Prallmaschine (Dunkelmehl)
+
+
+Waage (Dunkelmehl)
+Waage (Dunkelmehl)
+Waage (Dunkelmehl)
+Waage (Dunkelmehl)
+
+Sammelschnecke (Dunkelmehl)
+Sammelschnecke (Dunkelmehl)
+Sammelschnecke (Dunkelmehl)
+Sammelschnecke (Dunkelmehl)
+
+
+Meldungen zum PT
+
+Vorwarnen im PT (Interface from PT panel)
+
+Start Aspiration PT (Interface from PT panel)
+
+Meldungen vom PT
+Einschaltbereit (Interface from PT panel)
+
+Rückmeldung vom PT (Interface from PT panel)
+ 
+Rückmeldung vom PT (Interface from PT panel)
+ 
+Rückmeldung vom PT (Interface from PT panel)
+
+
+Vorwahl Zelle 1 (Not used for controlling the 2 way flaps)
+
+Vorwahl Zelle 2 (Not used for controlling the 2 way flaps)
+
+
+2-fach Weiche
+2-fach Weiche (To Bin 601)
+
+2-fach Weiche (To Bin 602)
+
+2-fach Weiche (To Bin 601)
+
+2-fach Weiche (To Bin 602)
+
+Meldungen vom PT
+
+Vollmelder Zelle 1 (Interface from PT)
+
+Vollmelder Zelle 2 (Interface from PT)
+ 
+Leermelder Zelle 1 (Interface from PT)
+ 
+Leermelder Zelle 2 (Interface from PT)
+
+
+
+
+
+
+
+
+
+
+Gebläse (Kleie)
+Gebläse (Kleie)
+Gebläse (Kleie)
+Gebläse (Kleie)
+
+Druckluft Grenzwert 1 Min (Kleie)
+Druckluft Grenzwert 1 Min (Kleie)
+Druckluft Grenzwert 2 Max (Kleie)
+Druckluft Grenzwert 2 Max (Kleie)
+
+Schleuse (Kleie)
+Schleuse (Kleie)
+Schleuse (Kleie)
+Schleuse (Kleie)
+Dosierschnecke (Kleie)
+Dosierschnecke (Kleie)
+Dosierschnecke (Kleie)
+Dosierschnecke (Kleie)
+Vollmelder Behälter (Kleie)
+Vollmelder Behälter (Kleie)
+Waage (Kleie)
+Waage (Kleie)
+Waage (Kleie)
+Waage (Kleie)
+
+Sammelschnecke (Kleie)
+Sammelschnecke (Kleie)
+Sammelschnecke (Kleie)
+Sammelschnecke (Kleie)
+
+
+
+
+
+Rückmeldung vom Mehlsilo
+Sammelschnecke im Betrieb (450) (Interface from MS)
+
+
+Vollmelder Behälter voll (Dark flour)
+Vollmelder Behälter voll (Dark flour)
+
+
+
+Sammelschnecke (Type 450)
+Sammelschnecke (Type 450)
+Sammelschnecke (Type 450)
+Sammelschnecke (Type 450)
+
+
+Rückmeldung vom Mehlsilo
+Sammelschnecke im Betrieb (Semolina) (Interface from MS)
+
+Dosierschnecke (Semolina)
+Dosierschnecke (Semolina)
+Dosierschnecke (Semolina)
+Dosierschnecke (Semolina)
+Vollmelder (Semolina)
+Vollmelder (Semolina)
+Waage (Semolina)
+Waage (Semolina)
+Waage (Semolina)
+Waage (Semolina)
+
+Sammelschnecke (Semolina)
+Sammelschnecke (Semolina)
+Sammelschnecke (Semolina)
+Sammelschnecke (Semolina)
+
+
+Rückmeldung vom PT
+Schleuse (Einlauf) im Betrieb (Germs) (Interface from PT)
+END
